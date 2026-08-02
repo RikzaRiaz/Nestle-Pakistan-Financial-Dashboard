@@ -53,6 +53,7 @@ Inventory turnover, total asset turnover, and return on capital employed (ROCE) 
 | `Nestle Pakistan Dashboard V1.pbix` | Full interactive Power BI file |
 | `Nestle Pakistan Dashboard V1.pdf` | Static PDF export of all dashboard pages |
 | `Overview.png`, `Profitability.png`, `Liquidity_Solvency.png`, `Efficiency.png` | Page-by-page screenshots |
+| `data/RawData_Nestle_6yr_Summary.csv` | Source data extracted and structured from annual reports |
 
 ## 🚀 Next Steps (In Progress)
 
