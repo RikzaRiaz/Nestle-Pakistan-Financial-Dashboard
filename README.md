@@ -1,4 +1,4 @@
-# 📊 Nestle Pakistan — Financial Performance Dashboard (FY2019–2024)
+# 📊 Nestle Pakistan - Financial Performance Dashboard (FY2019–2024)
 
 An end-to-end Power BI dashboard analyzing Nestle Pakistan's 5-year financial performance, built from the company's annual report six-year financial summary. This project covers Profitability, Liquidity & Solvency, and Efficiency analysis with data-driven insights on each page.
 
