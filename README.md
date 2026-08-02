@@ -35,16 +35,16 @@ Inventory turnover, total asset turnover, and return on capital employed (ROCE) 
 
 - Gross margin expanded from 28.8% (FY2019) to 36.0% (FY2024), driven by cost efficiency rather than volume growth
 - Sales declined -3.7% in FY2024, the first decline in the five-year period
-- Debt-to-equity structure shifted dramatically from 90:10 (FY2019) to 22:78 (FY2024) — significant deleveraging
+- Debt-to-equity structure shifted dramatically from 90:10 (FY2019) to 22:78 (FY2024) - significant deleveraging
 - Interest cover improved from 4.4x to 10.8x, reflecting stronger debt-servicing capacity
 - ROCE remained above 100% throughout, peaking at 153% in FY2023
 
 ## 🛠️ Tools & Techniques Used
 
-- **Power BI Desktop** — data modeling, DAX measures, interactive visuals
-- **Power Query** — data cleaning and transformation
-- **DAX** — custom measures for YoY growth, margins, and ratio calculations
-- **Data Modeling** — star-schema style relationship between Financials and Year dimension tables
+- **Power BI Desktop** - data modeling, DAX measures, interactive visuals
+- **Power Query** - data cleaning and transformation
+- **DAX** - custom measures for YoY growth, margins, and ratio calculations
+- **Data Modeling** - star-schema style relationship between Financials and Year dimension tables
 
 ## 📂 Repository Contents
 
