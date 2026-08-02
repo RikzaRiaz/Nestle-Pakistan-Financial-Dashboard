@@ -7,6 +7,7 @@ An end-to-end Power BI dashboard analyzing Nestle Pakistan's 5-year financial pe
 This dashboard was built as a self-directed analytical project to demonstrate financial statement analysis and data visualization skills. Financial data was manually extracted from Nestle Pakistan's PDF annual reports and restructured into a clean, tidy dataset before being modeled in Power BI. It transforms raw annual report data into a structured, interactive Power BI dashboard covering four key analytical areas.
 
 **Data source:** Nestle Pakistan Annual Reports (2019–2024), Six-Year Financial Summary section
+
 **Tool used:** Power BI Desktop (Power Query, DAX, Data Modeling)
 
 ## 📁 Dashboard Pages
