@@ -1,6 +1,6 @@
 # 📊 Nestle Pakistan - Financial Performance Dashboard (FY2019–2024)
 
-> 🔄 **Update:** A deeper Phase 2(V2) analysis with detailed Balance Sheet, Cash Flow, and Expense breakdowns is now available: [View V2](https://github.com/RikzaRiaz/Nestle-Financial-Performance-Dashboard-V2)
+> 🔄 **Update:** A deeper Phase 2(V2) analysis with detailed Balance Sheet, Cash Flow, and Expense breakdowns is now available: [View V2](https://github.com/RikzaRiaz/Nestle-Pakistan-Financial-Dashboard-V2)
 
 An end-to-end Power BI dashboard analyzing Nestle Pakistan's 5-year financial performance, built from the company's annual report six-year financial summary. This project covers Profitability, Liquidity & Solvency, and Efficiency analysis with data-driven insights on each page.
 
